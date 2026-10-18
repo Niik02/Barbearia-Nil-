@@ -1,0 +1,6 @@
+{
+  "name": "Barbearia do Nil - Links Oficiais",
+  "description": "Página oficial de links da Barbearia do Nil. Agende seu horário, avalie no Google, siga no Instagram, pague ou fale pelo WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
